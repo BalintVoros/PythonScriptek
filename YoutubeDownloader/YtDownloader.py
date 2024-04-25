@@ -9,5 +9,4 @@ print("Title: ", yt.title)
 print("Number of views: ", yt.views)
 
 yd=yt.streams.get_highest_resolution()
-yd.download("PythonScriptek/DownloadedVideos")
-    
+yd.download("/Users/balint/Desktop/Files")
