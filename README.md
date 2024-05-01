@@ -5,4 +5,5 @@
 #Futtatás ---> python3 Scriptnév.py
 
 
---->PDFMerger, YoutubeDownloader
+--->PDFMerger, YoutubeDownloader,FileManager
+
