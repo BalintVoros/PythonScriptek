@@ -5,7 +5,7 @@ import shutil
 def organize_files_by_category(directory):
     # Mapping of file extensions to more specific folder names
     extensions_map = {
-        'Documents': ['docx'],
+        'Documents': ['docx','odt'],
         'PDF': ['pdf'],
         'Codes': ['py', 'js', 'java', 'c', 'cpp', 'cs', 'h'],
         'Pictures': ['jpg', 'jpeg', 'png', 'gif', 'bmp'],
