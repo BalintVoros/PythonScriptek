@@ -2,7 +2,7 @@
 
 #Basic Python Scriptek
 
-#Futtatás ---> python3 Scriptnév.py
+#Run ---> python3 "Scriptname".py
 
 
 --->PDFMerger, YoutubeDownloader,FileManager
