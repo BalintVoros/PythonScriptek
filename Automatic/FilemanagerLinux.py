@@ -41,4 +41,4 @@ def organize_files_by_category(directory):
                 shutil.move(full_path, os.path.join(other_dir, item))
 
 # Example usage
-organize_files_by_category('/home/balint/Letöltések/')
+organize_files_by_category('/home/balint/Downloads/')
